@@ -1,3 +1,5 @@
+package Recursion;
+
 public class SumOfDigitOfNumber {
     // sum of digit of a number
     public static int sumDigit(int n){

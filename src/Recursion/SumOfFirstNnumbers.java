@@ -1,3 +1,5 @@
+package Recursion;
+
 public class SumOfFirstNnumbers {
     // sum of first N integers
     public static int sumN(int n){

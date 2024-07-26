@@ -1,3 +1,5 @@
+package Recursion;
+
 public class PrintnTo1 {
     // print n - 1
     public static void printN(int n){

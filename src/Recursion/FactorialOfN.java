@@ -1,3 +1,5 @@
+package Recursion;
+
 public class FactorialOfN {
     // factorial
     public static int fact(int n){
