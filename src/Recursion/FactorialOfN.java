@@ -1,7 +1,7 @@
 package Recursion;
 
 public class FactorialOfN {
-    // factorial
+    // Calculating factorial of a number using recursion
     public static int fact(int n){
         if(n <= 0){
             return 1;
