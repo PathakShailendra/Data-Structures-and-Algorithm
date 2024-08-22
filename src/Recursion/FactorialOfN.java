@@ -1,7 +1,7 @@
 package Recursion;
 
 public class FactorialOfN {
-    // Calculating factorial of a number using recursion
+    // Calculating factorial of a number using recursion.
     public static int fact(int n){
         if(n <= 0){
             return 1;
@@ -10,6 +10,6 @@ public class FactorialOfN {
     }
 
     public static void main(String[] args) {
-        System.out.println(fact(10));
+        System.out.println(fact(5));
     }
 }
