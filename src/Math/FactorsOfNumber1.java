@@ -9,7 +9,7 @@ public class FactorsOfNumber1 {
     // can be converted into the sqrt of n;
 
     public static void main(String[] args) {
-        int n = 100;
+        int n = 12;
         ArrayList<Integer> list = new ArrayList<>();
         for(int i = 1; i <= Math.sqrt(n); i++){
             if(n % i == 0){
